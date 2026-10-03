@@ -1,0 +1,6 @@
+cd typescript
+npm install
+npm run build
+npm start
+# → http://localhost:8787/api/health
+# → http://localhost:8787/api/analyze/196
