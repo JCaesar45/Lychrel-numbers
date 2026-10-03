@@ -1,0 +1,16 @@
+lychrel-numbers/
+├── index.html                 # Frontend (from previous message)
+├── README.md                  # Documentation
+├── package.json               # Node/TS project manifest
+├── tsconfig.json              # TypeScript compiler config
+├── pom.xml                    # Maven manifest for Java
+├── python/
+│   └── lychrel.py             # Python implementation + CLI
+├── typescript/
+│   ├── lychrel.ts             # TypeScript implementation
+│   └── server.ts              # Express API server
+├── java/
+│   └── src/main/java/archive/
+│       └── Lychrel.java       # Java implementation + HTTP server
+└── data/
+    └── seeds.json             # Shared seed catalog
