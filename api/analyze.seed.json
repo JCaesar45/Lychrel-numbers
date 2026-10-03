@@ -1,0 +1,9 @@
+{
+  "seed": "196",
+  "isLychrel": true,
+  "iterations": 500,
+  "peakDigits": 247,
+  "palindrome": null,
+  "elapsedMs": 412.837,
+  "preview": ["196", "887", "1675", "..."]
+}
