@@ -1,0 +1,11 @@
+{
+  "iterationLimit": 500,
+  "canonical": "196",
+  "seedsBelow10k": [
+    { "n": "196",  "note": "Canonical Lychrel candidate, studied since 1968." },
+    { "n": "879",  "note": "Joins the 196 sequence within a handful of iterations." },
+    { "n": "1997", "note": "Independent divergence pattern below 10,000." },
+    { "n": "7059", "note": "Fourth seed candidate below 10,000." },
+    { "n": "9999", "note": "Boundary case — largest seed below five digits." }
+  ]
+}
