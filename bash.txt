@@ -4,3 +4,9 @@ npm run build
 npm start
 # → http://localhost:8787/api/health
 # → http://localhost:8787/api/analyze/196
+
+
+cd java
+javac -d out src/main/java/archive/Lychrel.java
+java -cp out archive.Lychrel
+# → http://localhost:8788/api/analyze/196
